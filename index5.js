@@ -1,0 +1,3661 @@
+let water = [{'TypeCode': 'GSL', 'TypeName': '供水量', 'RecordTime': '2019-10-04T00:00:00', 'RecordValue': 320977}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-05T00:00:00',
+	'RecordValue': 328095
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-06T00:00:00',
+	'RecordValue': 328702
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-07T00:00:00',
+	'RecordValue': 334397
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-08T00:00:00',
+	'RecordValue': 348151
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-09T00:00:00',
+	'RecordValue': 347983
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-10T00:00:00',
+	'RecordValue': 316795
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-11T00:00:00',
+	'RecordValue': 311460
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-12T00:00:00',
+	'RecordValue': 340761
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-13T00:00:00',
+	'RecordValue': 341144
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-14T00:00:00',
+	'RecordValue': 326386
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-15T00:00:00',
+	'RecordValue': 333093
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-16T00:00:00',
+	'RecordValue': 323022
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-17T00:00:00',
+	'RecordValue': 338153
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-18T00:00:00',
+	'RecordValue': 320460
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-19T00:00:00',
+	'RecordValue': 339776
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-20T00:00:00',
+	'RecordValue': 342274
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-21T00:00:00',
+	'RecordValue': 342022
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-22T00:00:00',
+	'RecordValue': 334643
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-23T00:00:00',
+	'RecordValue': 339516
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-24T00:00:00',
+	'RecordValue': 343068
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-25T00:00:00',
+	'RecordValue': 331880
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-26T00:00:00',
+	'RecordValue': 335879
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-27T00:00:00',
+	'RecordValue': 338875
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-28T00:00:00',
+	'RecordValue': 346345
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-29T00:00:00',
+	'RecordValue': 342261
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-30T00:00:00',
+	'RecordValue': 345078
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-10-31T00:00:00',
+	'RecordValue': 344175
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-01T00:00:00',
+	'RecordValue': 342369
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-02T00:00:00',
+	'RecordValue': 342550
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-03T00:00:00',
+	'RecordValue': 347227
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-04T00:00:00',
+	'RecordValue': 336996
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-05T00:00:00',
+	'RecordValue': 338011
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-06T00:00:00',
+	'RecordValue': 349075
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-07T00:00:00',
+	'RecordValue': 341387
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-08T00:00:00',
+	'RecordValue': 345977
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-09T00:00:00',
+	'RecordValue': 344708
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-10T00:00:00',
+	'RecordValue': 343597
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-11T00:00:00',
+	'RecordValue': 345476
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-12T00:00:00',
+	'RecordValue': 341029
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-13T00:00:00',
+	'RecordValue': 347551
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-14T00:00:00',
+	'RecordValue': 351689
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-15T00:00:00',
+	'RecordValue': 351333
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-16T00:00:00',
+	'RecordValue': 351585
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-17T00:00:00',
+	'RecordValue': 334381
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-18T00:00:00',
+	'RecordValue': 344523
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-19T00:00:00',
+	'RecordValue': 344582
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-20T00:00:00',
+	'RecordValue': 343600
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-21T00:00:00',
+	'RecordValue': 345598
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-22T00:00:00',
+	'RecordValue': 350173
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-23T00:00:00',
+	'RecordValue': 335137
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-24T00:00:00',
+	'RecordValue': 338104
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-25T00:00:00',
+	'RecordValue': 341734
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-26T00:00:00',
+	'RecordValue': 346150
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-27T00:00:00',
+	'RecordValue': 336247
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-28T00:00:00',
+	'RecordValue': 334193
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-29T00:00:00',
+	'RecordValue': 346031
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-11-30T00:00:00',
+	'RecordValue': 340179
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-01T00:00:00',
+	'RecordValue': 338584
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-02T00:00:00',
+	'RecordValue': 348788
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-03T00:00:00',
+	'RecordValue': 348854
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-04T00:00:00',
+	'RecordValue': 346418
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-05T00:00:00',
+	'RecordValue': 340854
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-06T00:00:00',
+	'RecordValue': 329911
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-07T00:00:00',
+	'RecordValue': 339109
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-08T00:00:00',
+	'RecordValue': 347747
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-09T00:00:00',
+	'RecordValue': 343590
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-10T00:00:00',
+	'RecordValue': 338666
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-11T00:00:00',
+	'RecordValue': 356868
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-12T00:00:00',
+	'RecordValue': 354363
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-13T00:00:00',
+	'RecordValue': 348811
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-14T00:00:00',
+	'RecordValue': 343864
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-15T00:00:00',
+	'RecordValue': 338332
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-16T00:00:00',
+	'RecordValue': 346078
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-17T00:00:00',
+	'RecordValue': 340441
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-18T00:00:00',
+	'RecordValue': 344482
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-19T00:00:00',
+	'RecordValue': 340181
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-20T00:00:00',
+	'RecordValue': 347388
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-21T00:00:00',
+	'RecordValue': 345461
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-22T00:00:00',
+	'RecordValue': 332844
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-23T00:00:00',
+	'RecordValue': 344209
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-24T00:00:00',
+	'RecordValue': 341096
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-25T00:00:00',
+	'RecordValue': 332342
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-26T00:00:00',
+	'RecordValue': 332865
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-27T00:00:00',
+	'RecordValue': 350584
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-28T00:00:00',
+	'RecordValue': 348180
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-29T00:00:00',
+	'RecordValue': 335844
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-30T00:00:00',
+	'RecordValue': 329375
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2019-12-31T00:00:00',
+	'RecordValue': 328091
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-01T00:00:00',
+	'RecordValue': 328063
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-02T00:00:00',
+	'RecordValue': 331626
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-03T00:00:00',
+	'RecordValue': 329083
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-04T00:00:00',
+	'RecordValue': 322343
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-05T00:00:00',
+	'RecordValue': 319940
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-06T00:00:00',
+	'RecordValue': 316105
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-07T00:00:00',
+	'RecordValue': 311741
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-08T00:00:00',
+	'RecordValue': 316952
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-09T00:00:00',
+	'RecordValue': 317926
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-10T00:00:00',
+	'RecordValue': 319258
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-11T00:00:00',
+	'RecordValue': 312509
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-12T00:00:00',
+	'RecordValue': 324648
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-13T00:00:00',
+	'RecordValue': 312423
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-14T00:00:00',
+	'RecordValue': 319197
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-15T00:00:00',
+	'RecordValue': 321151
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-16T00:00:00',
+	'RecordValue': 303129
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-17T00:00:00',
+	'RecordValue': 299107
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-18T00:00:00',
+	'RecordValue': 304659
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-19T00:00:00',
+	'RecordValue': 297685
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-20T00:00:00',
+	'RecordValue': 293342
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-21T00:00:00',
+	'RecordValue': 282880
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-22T00:00:00',
+	'RecordValue': 262227
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-23T00:00:00',
+	'RecordValue': 261810
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-24T00:00:00',
+	'RecordValue': 242822
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-25T00:00:00',
+	'RecordValue': 190911
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-26T00:00:00',
+	'RecordValue': 199258
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-27T00:00:00',
+	'RecordValue': 212639
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-28T00:00:00',
+	'RecordValue': 212007
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-29T00:00:00',
+	'RecordValue': 217760
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-30T00:00:00',
+	'RecordValue': 229381
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-01-31T00:00:00',
+	'RecordValue': 228742
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-01T00:00:00',
+	'RecordValue': 224301
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-02T00:00:00',
+	'RecordValue': 226044
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-03T00:00:00',
+	'RecordValue': 220034
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-04T00:00:00',
+	'RecordValue': 218151
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-05T00:00:00',
+	'RecordValue': 224640
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-06T00:00:00',
+	'RecordValue': 218443
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-07T00:00:00',
+	'RecordValue': 223589
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-08T00:00:00',
+	'RecordValue': 226408
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-09T00:00:00',
+	'RecordValue': 247037
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-10T00:00:00',
+	'RecordValue': 258740
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-11T00:00:00',
+	'RecordValue': 242444
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-12T00:00:00',
+	'RecordValue': 252156
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-13T00:00:00',
+	'RecordValue': 256181
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-14T00:00:00',
+	'RecordValue': 248258
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-15T00:00:00',
+	'RecordValue': 242955
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-16T00:00:00',
+	'RecordValue': 254795
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-17T00:00:00',
+	'RecordValue': 267530
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-18T00:00:00',
+	'RecordValue': 276061
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-19T00:00:00',
+	'RecordValue': 276968
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-20T00:00:00',
+	'RecordValue': 270872
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-21T00:00:00',
+	'RecordValue': 266582
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-22T00:00:00',
+	'RecordValue': 271157
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-23T00:00:00',
+	'RecordValue': 268712
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-24T00:00:00',
+	'RecordValue': 266668
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-25T00:00:00',
+	'RecordValue': 261387
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-26T00:00:00',
+	'RecordValue': 272942
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-27T00:00:00',
+	'RecordValue': 268227
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-28T00:00:00',
+	'RecordValue': 254576
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-02-29T00:00:00',
+	'RecordValue': 257933
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-01T00:00:00',
+	'RecordValue': 258516
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-02T00:00:00',
+	'RecordValue': 281995
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-03T00:00:00',
+	'RecordValue': 268562
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-04T00:00:00',
+	'RecordValue': 277197
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-05T00:00:00',
+	'RecordValue': 279298
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-06T00:00:00',
+	'RecordValue': 276552
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-07T00:00:00',
+	'RecordValue': 271220
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-08T00:00:00',
+	'RecordValue': 275761
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-09T00:00:00',
+	'RecordValue': 269577
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-10T00:00:00',
+	'RecordValue': 284057
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-11T00:00:00',
+	'RecordValue': 287277
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-12T00:00:00',
+	'RecordValue': 291578
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-13T00:00:00',
+	'RecordValue': 288362
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-14T00:00:00',
+	'RecordValue': 298550
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-15T00:00:00',
+	'RecordValue': 299954
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-16T00:00:00',
+	'RecordValue': 290757
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-17T00:00:00',
+	'RecordValue': 298102
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-18T00:00:00',
+	'RecordValue': 302689
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-19T00:00:00',
+	'RecordValue': 306245
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-20T00:00:00',
+	'RecordValue': 301033
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-21T00:00:00',
+	'RecordValue': 311502
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-22T00:00:00',
+	'RecordValue': 310823
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-23T00:00:00',
+	'RecordValue': 314653
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-24T00:00:00',
+	'RecordValue': 308615
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-25T00:00:00',
+	'RecordValue': 298035
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-26T00:00:00',
+	'RecordValue': 296465
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-27T00:00:00',
+	'RecordValue': 302532
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-28T00:00:00',
+	'RecordValue': 303889
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-29T00:00:00',
+	'RecordValue': 304057
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-30T00:00:00',
+	'RecordValue': 305596
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-03-31T00:00:00',
+	'RecordValue': 307563
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-01T00:00:00',
+	'RecordValue': 306969
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-02T00:00:00',
+	'RecordValue': 308959
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-03T00:00:00',
+	'RecordValue': 306755
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-04T00:00:00',
+	'RecordValue': 286786
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-05T00:00:00',
+	'RecordValue': 301095
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-06T00:00:00',
+	'RecordValue': 307288
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-07T00:00:00',
+	'RecordValue': 320481
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-08T00:00:00',
+	'RecordValue': 305836
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-09T00:00:00',
+	'RecordValue': 286257
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-10T00:00:00',
+	'RecordValue': 301623
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-11T00:00:00',
+	'RecordValue': 318879
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-12T00:00:00',
+	'RecordValue': 321291
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-13T00:00:00',
+	'RecordValue': 314452
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-14T00:00:00',
+	'RecordValue': 307627
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-15T00:00:00',
+	'RecordValue': 308497
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-16T00:00:00',
+	'RecordValue': 293002
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-17T00:00:00',
+	'RecordValue': 299418
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-18T00:00:00',
+	'RecordValue': 303941
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-19T00:00:00',
+	'RecordValue': 277112
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-20T00:00:00',
+	'RecordValue': 306121
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-21T00:00:00',
+	'RecordValue': 306759
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-22T00:00:00',
+	'RecordValue': 299268
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-23T00:00:00',
+	'RecordValue': 313926
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-24T00:00:00',
+	'RecordValue': 312868
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-25T00:00:00',
+	'RecordValue': 310814
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-26T00:00:00',
+	'RecordValue': 311739
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-27T00:00:00',
+	'RecordValue': 317050
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-28T00:00:00',
+	'RecordValue': 324180
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-29T00:00:00',
+	'RecordValue': 324180
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-04-30T00:00:00',
+	'RecordValue': 329732
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-01T00:00:00',
+	'RecordValue': 324097
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-02T00:00:00',
+	'RecordValue': 261137
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-03T00:00:00',
+	'RecordValue': 286974
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-04T00:00:00',
+	'RecordValue': 291130
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-05T00:00:00',
+	'RecordValue': 294278
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-06T00:00:00',
+	'RecordValue': 309028
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-07T00:00:00',
+	'RecordValue': 303234
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-08T00:00:00',
+	'RecordValue': 272236
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-09T00:00:00',
+	'RecordValue': 294102
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-10T00:00:00',
+	'RecordValue': 306024
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-11T00:00:00',
+	'RecordValue': 298859
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-12T00:00:00',
+	'RecordValue': 301959
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-13T00:00:00',
+	'RecordValue': 316587
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-14T00:00:00',
+	'RecordValue': 287850
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-15T00:00:00',
+	'RecordValue': 301735
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-16T00:00:00',
+	'RecordValue': 321296
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-17T00:00:00',
+	'RecordValue': 310989
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-18T00:00:00',
+	'RecordValue': 298621
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-19T00:00:00',
+	'RecordValue': 308816
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-20T00:00:00',
+	'RecordValue': 315782
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-21T00:00:00',
+	'RecordValue': 308639
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-22T00:00:00',
+	'RecordValue': 315937
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-23T00:00:00',
+	'RecordValue': 315937
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-24T00:00:00',
+	'RecordValue': 327458
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-25T00:00:00',
+	'RecordValue': 323833
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-26T00:00:00',
+	'RecordValue': 311486
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-27T00:00:00',
+	'RecordValue': 318515
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-28T00:00:00',
+	'RecordValue': 325226
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-29T00:00:00',
+	'RecordValue': 317301
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-30T00:00:00',
+	'RecordValue': 301905
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-05-31T00:00:00',
+	'RecordValue': 304355
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-01T00:00:00',
+	'RecordValue': 326788
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-02T00:00:00',
+	'RecordValue': 323753
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-03T00:00:00',
+	'RecordValue': 346486
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-04T00:00:00',
+	'RecordValue': 340022
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-05T00:00:00',
+	'RecordValue': 333208
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-06T00:00:00',
+	'RecordValue': 332663
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-07T00:00:00',
+	'RecordValue': 344247
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-08T00:00:00',
+	'RecordValue': 356128
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-09T00:00:00',
+	'RecordValue': 325677
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-10T00:00:00',
+	'RecordValue': 335827
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-11T00:00:00',
+	'RecordValue': 350151
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-12T00:00:00',
+	'RecordValue': 321387
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-13T00:00:00',
+	'RecordValue': 332898
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-14T00:00:00',
+	'RecordValue': 357356
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-15T00:00:00',
+	'RecordValue': 356042
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-16T00:00:00',
+	'RecordValue': 353030
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-17T00:00:00',
+	'RecordValue': 316252
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-18T00:00:00',
+	'RecordValue': 325711
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-19T00:00:00',
+	'RecordValue': 342843
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-20T00:00:00',
+	'RecordValue': 347378
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-21T00:00:00',
+	'RecordValue': 336551
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-22T00:00:00',
+	'RecordValue': 344587
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-23T00:00:00',
+	'RecordValue': 310080
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-24T00:00:00',
+	'RecordValue': 326366
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-25T00:00:00',
+	'RecordValue': 314757
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-26T00:00:00',
+	'RecordValue': 335699
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-27T00:00:00',
+	'RecordValue': 348754
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-28T00:00:00',
+	'RecordValue': 339109
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-29T00:00:00',
+	'RecordValue': 309767
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-06-30T00:00:00',
+	'RecordValue': 333108
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-01T00:00:00',
+	'RecordValue': 351397
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-02T00:00:00',
+	'RecordValue': 349968
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-03T00:00:00',
+	'RecordValue': 338196
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-04T00:00:00',
+	'RecordValue': 346079
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-05T00:00:00',
+	'RecordValue': 340579
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-06T00:00:00',
+	'RecordValue': 342189
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-07T00:00:00',
+	'RecordValue': 356161
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-08T00:00:00',
+	'RecordValue': 351724
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-09T00:00:00',
+	'RecordValue': 335880
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-10T00:00:00',
+	'RecordValue': 343557
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-11T00:00:00',
+	'RecordValue': 345581
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-12T00:00:00',
+	'RecordValue': 310960
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-13T00:00:00',
+	'RecordValue': 335850
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-14T00:00:00',
+	'RecordValue': 351541
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-15T00:00:00',
+	'RecordValue': 352566
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-16T00:00:00',
+	'RecordValue': 353976
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-17T00:00:00',
+	'RecordValue': 337056
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-18T00:00:00',
+	'RecordValue': 316048
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-19T00:00:00',
+	'RecordValue': 322981
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-20T00:00:00',
+	'RecordValue': 359566
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-21T00:00:00',
+	'RecordValue': 339652
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-22T00:00:00',
+	'RecordValue': 316903
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-23T00:00:00',
+	'RecordValue': 334901
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-24T00:00:00',
+	'RecordValue': 365078
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-25T00:00:00',
+	'RecordValue': 350036
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-26T00:00:00',
+	'RecordValue': 333516
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-27T00:00:00',
+	'RecordValue': 352629
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-28T00:00:00',
+	'RecordValue': 346590
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-29T00:00:00',
+	'RecordValue': 354725
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-30T00:00:00',
+	'RecordValue': 350872
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-07-31T00:00:00',
+	'RecordValue': 339382
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-01T00:00:00',
+	'RecordValue': 361354
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-02T00:00:00',
+	'RecordValue': 335711
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-03T00:00:00',
+	'RecordValue': 344547
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-04T00:00:00',
+	'RecordValue': 335828
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-05T00:00:00',
+	'RecordValue': 344961
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-06T00:00:00',
+	'RecordValue': 344961
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-07T00:00:00',
+	'RecordValue': 322107
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-08T00:00:00',
+	'RecordValue': 343862
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-09T00:00:00',
+	'RecordValue': 355157
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-10T00:00:00',
+	'RecordValue': 365772
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-11T00:00:00',
+	'RecordValue': 367061
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-12T00:00:00',
+	'RecordValue': 349087
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-13T00:00:00',
+	'RecordValue': 366390
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-14T00:00:00',
+	'RecordValue': 358477
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-15T00:00:00',
+	'RecordValue': 370009
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-16T00:00:00',
+	'RecordValue': 383339
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-17T00:00:00',
+	'RecordValue': 368346
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-18T00:00:00',
+	'RecordValue': 373024
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-19T00:00:00',
+	'RecordValue': 371509
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-20T00:00:00',
+	'RecordValue': 362996
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-21T00:00:00',
+	'RecordValue': 345593
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-22T00:00:00',
+	'RecordValue': 358018
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-23T00:00:00',
+	'RecordValue': 366442
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-24T00:00:00',
+	'RecordValue': 368526
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-25T00:00:00',
+	'RecordValue': 356185
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-26T00:00:00',
+	'RecordValue': 336596
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-27T00:00:00',
+	'RecordValue': 361861
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-28T00:00:00',
+	'RecordValue': 371944
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-29T00:00:00',
+	'RecordValue': 388503
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-30T00:00:00',
+	'RecordValue': 369996
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-08-31T00:00:00',
+	'RecordValue': 377243
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-01T00:00:00',
+	'RecordValue': 377814
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-02T00:00:00',
+	'RecordValue': 362331
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-03T00:00:00',
+	'RecordValue': 380865
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-04T00:00:00',
+	'RecordValue': 373380
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-05T00:00:00',
+	'RecordValue': 373689
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-06T00:00:00',
+	'RecordValue': 379912
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-07T00:00:00',
+	'RecordValue': 379086
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-08T00:00:00',
+	'RecordValue': 371806
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-09T00:00:00',
+	'RecordValue': 378409
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-10T00:00:00',
+	'RecordValue': 374732
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-11T00:00:00',
+	'RecordValue': 372181
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-12T00:00:00',
+	'RecordValue': 359965
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-13T00:00:00',
+	'RecordValue': 370003
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-14T00:00:00',
+	'RecordValue': 375398
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-15T00:00:00',
+	'RecordValue': 367037
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-16T00:00:00',
+	'RecordValue': 380146
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-17T00:00:00',
+	'RecordValue': 370509
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-18T00:00:00',
+	'RecordValue': 372992
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-19T00:00:00',
+	'RecordValue': 375269
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-20T00:00:00',
+	'RecordValue': 380404
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-21T00:00:00',
+	'RecordValue': 373780
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-22T00:00:00',
+	'RecordValue': 377164
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-23T00:00:00',
+	'RecordValue': 373342
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-24T00:00:00',
+	'RecordValue': 364276
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-25T00:00:00',
+	'RecordValue': 370495
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-26T00:00:00',
+	'RecordValue': 374421
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-27T00:00:00',
+	'RecordValue': 370973
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-28T00:00:00',
+	'RecordValue': 370158
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-29T00:00:00',
+	'RecordValue': 372086
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-09-30T00:00:00',
+	'RecordValue': 364162
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-10-01T00:00:00',
+	'RecordValue': 317861
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-10-02T00:00:00',
+	'RecordValue': 323597
+}, {
+	'TypeCode': 'GSL',
+	'TypeName': '供水量',
+	'RecordTime': '2020-10-03T00:00:00',
+	'RecordValue': 333615
+}, {'TypeCode': 'GSL', 'TypeName': '供水量', 'RecordTime': '2020-10-04T00:00:00', 'RecordValue': 337101}];
+
+
+let elec = [{
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-04T00:00:00',
+	'RecordValue': 176100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-05T00:00:00',
+	'RecordValue': 189000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-06T00:00:00',
+	'RecordValue': 185700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-08T00:00:00',
+	'RecordValue': 180900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-07T00:00:00',
+	'RecordValue': 188400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-09T00:00:00',
+	'RecordValue': 179400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-11T00:00:00',
+	'RecordValue': 159600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-12T00:00:00',
+	'RecordValue': 169200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-15T00:00:00',
+	'RecordValue': 181500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-14T00:00:00',
+	'RecordValue': 190500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-10T00:00:00',
+	'RecordValue': 169800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-13T00:00:00',
+	'RecordValue': 185700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-16T00:00:00',
+	'RecordValue': 166800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-17T00:00:00',
+	'RecordValue': 162600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-18T00:00:00',
+	'RecordValue': 157200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-20T00:00:00',
+	'RecordValue': 184800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-19T00:00:00',
+	'RecordValue': 172800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-21T00:00:00',
+	'RecordValue': 168900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-24T00:00:00',
+	'RecordValue': 163200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-22T00:00:00',
+	'RecordValue': 171900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-23T00:00:00',
+	'RecordValue': 160500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-25T00:00:00',
+	'RecordValue': 166800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-26T00:00:00',
+	'RecordValue': 171000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-28T00:00:00',
+	'RecordValue': 183900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-27T00:00:00',
+	'RecordValue': 177300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-29T00:00:00',
+	'RecordValue': 180000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-02T00:00:00',
+	'RecordValue': 271800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-04T00:00:00',
+	'RecordValue': 277500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-06T00:00:00',
+	'RecordValue': 280800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-30T00:00:00',
+	'RecordValue': 171900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-08T00:00:00',
+	'RecordValue': 1025160
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-11T00:00:00',
+	'RecordValue': 1122120
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-13T00:00:00',
+	'RecordValue': 1065360
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-14T00:00:00',
+	'RecordValue': 1370760
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-10-31T00:00:00',
+	'RecordValue': 178800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-05T00:00:00',
+	'RecordValue': 273300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-10T00:00:00',
+	'RecordValue': 1138800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-12T00:00:00',
+	'RecordValue': 1053480
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-15T00:00:00',
+	'RecordValue': 1503900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-01T00:00:00',
+	'RecordValue': 216300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-03T00:00:00',
+	'RecordValue': 278100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-07T00:00:00',
+	'RecordValue': 473940
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-09T00:00:00',
+	'RecordValue': 1039500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-16T00:00:00',
+	'RecordValue': 1486680
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-17T00:00:00',
+	'RecordValue': 1515120
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-19T00:00:00',
+	'RecordValue': 1679700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-20T00:00:00',
+	'RecordValue': 1694100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-18T00:00:00',
+	'RecordValue': 1671300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-23T00:00:00',
+	'RecordValue': 1850880
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-28T00:00:00',
+	'RecordValue': 1939200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-29T00:00:00',
+	'RecordValue': 1878300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-03T00:00:00',
+	'RecordValue': 1710240
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-21T00:00:00',
+	'RecordValue': 1704420
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-22T00:00:00',
+	'RecordValue': 1849620
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-24T00:00:00',
+	'RecordValue': 1917900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-25T00:00:00',
+	'RecordValue': 1959960
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-26T00:00:00',
+	'RecordValue': 1939920
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-27T00:00:00',
+	'RecordValue': 1977720
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-11-30T00:00:00',
+	'RecordValue': 1745760
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-01T00:00:00',
+	'RecordValue': 1684500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-02T00:00:00',
+	'RecordValue': 1706460
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-04T00:00:00',
+	'RecordValue': 1691760
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-07T00:00:00',
+	'RecordValue': 1818900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-09T00:00:00',
+	'RecordValue': 1769820
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-10T00:00:00',
+	'RecordValue': 1858980
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-12T00:00:00',
+	'RecordValue': 1912200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-05T00:00:00',
+	'RecordValue': 1773480
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-08T00:00:00',
+	'RecordValue': 1768560
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-14T00:00:00',
+	'RecordValue': 1945140
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-16T00:00:00',
+	'RecordValue': 1940640
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-17T00:00:00',
+	'RecordValue': 2008980
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-06T00:00:00',
+	'RecordValue': 1966620
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-11T00:00:00',
+	'RecordValue': 1928220
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-18T00:00:00',
+	'RecordValue': 2013060
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-19T00:00:00',
+	'RecordValue': 2007720
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-20T00:00:00',
+	'RecordValue': 2046660
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-13T00:00:00',
+	'RecordValue': 1944300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-15T00:00:00',
+	'RecordValue': 1964160
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-21T00:00:00',
+	'RecordValue': 2037840
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-22T00:00:00',
+	'RecordValue': 2027160
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-23T00:00:00',
+	'RecordValue': 2033160
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-24T00:00:00',
+	'RecordValue': 2036520
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-25T00:00:00',
+	'RecordValue': 2009820
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-26T00:00:00',
+	'RecordValue': 1941600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-27T00:00:00',
+	'RecordValue': 1906560
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-28T00:00:00',
+	'RecordValue': 1860540
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-30T00:00:00',
+	'RecordValue': 1687020
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-01T00:00:00',
+	'RecordValue': 1739460
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-03T00:00:00',
+	'RecordValue': 1900740
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-05T00:00:00',
+	'RecordValue': 1918320
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-29T00:00:00',
+	'RecordValue': 1740180
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2019-12-31T00:00:00',
+	'RecordValue': 1677840
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-02T00:00:00',
+	'RecordValue': 1852380
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-04T00:00:00',
+	'RecordValue': 1906920
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-07T00:00:00',
+	'RecordValue': 1641720
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-06T00:00:00',
+	'RecordValue': 1693620
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-08T00:00:00',
+	'RecordValue': 1783560
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-10T00:00:00',
+	'RecordValue': 1912560
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-11T00:00:00',
+	'RecordValue': 1897320
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-09T00:00:00',
+	'RecordValue': 1904820
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-12T00:00:00',
+	'RecordValue': 1918560
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-13T00:00:00',
+	'RecordValue': 1926240
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-14T00:00:00',
+	'RecordValue': 1894260
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-15T00:00:00',
+	'RecordValue': 1839000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-16T00:00:00',
+	'RecordValue': 1577460
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-20T00:00:00',
+	'RecordValue': 1179420
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-23T00:00:00',
+	'RecordValue': 1169700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-24T00:00:00',
+	'RecordValue': 1196760
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-17T00:00:00',
+	'RecordValue': 1196040
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-22T00:00:00',
+	'RecordValue': 1167360
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-26T00:00:00',
+	'RecordValue': 1127100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-27T00:00:00',
+	'RecordValue': 1073700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-18T00:00:00',
+	'RecordValue': 1184640
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-21T00:00:00',
+	'RecordValue': 1180080
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-30T00:00:00',
+	'RecordValue': 1112700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-31T00:00:00',
+	'RecordValue': 1107300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-02T00:00:00',
+	'RecordValue': 1103700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-19T00:00:00',
+	'RecordValue': 1169940
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-03T00:00:00',
+	'RecordValue': 1102500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-04T00:00:00',
+	'RecordValue': 1060800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-06T00:00:00',
+	'RecordValue': 1042500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-01T00:00:00',
+	'RecordValue': 1098900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-07T00:00:00',
+	'RecordValue': 1098300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-12T00:00:00',
+	'RecordValue': 1226400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-13T00:00:00',
+	'RecordValue': 1269600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-25T00:00:00',
+	'RecordValue': 1211820
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-28T00:00:00',
+	'RecordValue': 1074300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-01-29T00:00:00',
+	'RecordValue': 1109700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-05T00:00:00',
+	'RecordValue': 1041900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-08T00:00:00',
+	'RecordValue': 1133100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-10T00:00:00',
+	'RecordValue': 1199700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-16T00:00:00',
+	'RecordValue': 1286400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-18T00:00:00',
+	'RecordValue': 1713060
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-09T00:00:00',
+	'RecordValue': 1177800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-11T00:00:00',
+	'RecordValue': 1224000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-15T00:00:00',
+	'RecordValue': 1281000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-17T00:00:00',
+	'RecordValue': 1264500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-14T00:00:00',
+	'RecordValue': 1272000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-20T00:00:00',
+	'RecordValue': 1951380
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-21T00:00:00',
+	'RecordValue': 1967760
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-22T00:00:00',
+	'RecordValue': 1973220
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-19T00:00:00',
+	'RecordValue': 1975440
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-24T00:00:00',
+	'RecordValue': 1980000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-25T00:00:00',
+	'RecordValue': 1996800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-26T00:00:00',
+	'RecordValue': 1976460
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-27T00:00:00',
+	'RecordValue': 1975320
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-23T00:00:00',
+	'RecordValue': 1984140
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-28T00:00:00',
+	'RecordValue': 1991460
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-03T00:00:00',
+	'RecordValue': 2007240
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-04T00:00:00',
+	'RecordValue': 2003100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-07T00:00:00',
+	'RecordValue': 2009460
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-09T00:00:00',
+	'RecordValue': 2031960
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-13T00:00:00',
+	'RecordValue': 1959420
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-02-29T00:00:00',
+	'RecordValue': 1974360
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-02T00:00:00',
+	'RecordValue': 2008500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-05T00:00:00',
+	'RecordValue': 2039400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-06T00:00:00',
+	'RecordValue': 2011020
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-01T00:00:00',
+	'RecordValue': 1958220
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-08T00:00:00',
+	'RecordValue': 2020080
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-10T00:00:00',
+	'RecordValue': 2044440
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-11T00:00:00',
+	'RecordValue': 2012940
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-12T00:00:00',
+	'RecordValue': 1933260
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-14T00:00:00',
+	'RecordValue': 1931700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-16T00:00:00',
+	'RecordValue': 1825560
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-17T00:00:00',
+	'RecordValue': 1766340
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-15T00:00:00',
+	'RecordValue': 1890720
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-20T00:00:00',
+	'RecordValue': 1759740
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-22T00:00:00',
+	'RecordValue': 1752840
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-27T00:00:00',
+	'RecordValue': 1843200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-18T00:00:00',
+	'RecordValue': 1760520
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-19T00:00:00',
+	'RecordValue': 1741080
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-21T00:00:00',
+	'RecordValue': 1755360
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-24T00:00:00',
+	'RecordValue': 1749660
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-23T00:00:00',
+	'RecordValue': 1744860
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-25T00:00:00',
+	'RecordValue': 1751580
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-26T00:00:00',
+	'RecordValue': 1811280
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-28T00:00:00',
+	'RecordValue': 1850820
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-30T00:00:00',
+	'RecordValue': 1888320
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-29T00:00:00',
+	'RecordValue': 1829820
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-01T00:00:00',
+	'RecordValue': 1731000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-04T00:00:00',
+	'RecordValue': 1297320
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-13T00:00:00',
+	'RecordValue': 158700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-03-31T00:00:00',
+	'RecordValue': 1768140
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-03T00:00:00',
+	'RecordValue': 1390740
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-05T00:00:00',
+	'RecordValue': 1176960
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-08T00:00:00',
+	'RecordValue': 1271940
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-10T00:00:00',
+	'RecordValue': 152700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-02T00:00:00',
+	'RecordValue': 1679700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-06T00:00:00',
+	'RecordValue': 1339320
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-07T00:00:00',
+	'RecordValue': 1338360
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-09T00:00:00',
+	'RecordValue': 231060
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-12T00:00:00',
+	'RecordValue': 168000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-15T00:00:00',
+	'RecordValue': 159900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-16T00:00:00',
+	'RecordValue': 156900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-19T00:00:00',
+	'RecordValue': 166500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-11T00:00:00',
+	'RecordValue': 168600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-14T00:00:00',
+	'RecordValue': 162300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-17T00:00:00',
+	'RecordValue': 159900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-18T00:00:00',
+	'RecordValue': 156900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-20T00:00:00',
+	'RecordValue': 150600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-23T00:00:00',
+	'RecordValue': 160200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-26T00:00:00',
+	'RecordValue': 160200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-28T00:00:00',
+	'RecordValue': 163500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-21T00:00:00',
+	'RecordValue': 163800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-22T00:00:00',
+	'RecordValue': 153600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-24T00:00:00',
+	'RecordValue': 158700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-25T00:00:00',
+	'RecordValue': 166200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-27T00:00:00',
+	'RecordValue': 159900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-30T00:00:00',
+	'RecordValue': 183300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-05T00:00:00',
+	'RecordValue': 168300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-06T00:00:00',
+	'RecordValue': 173400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-04-29T00:00:00',
+	'RecordValue': 164100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-04T00:00:00',
+	'RecordValue': 173400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-09T00:00:00',
+	'RecordValue': 183600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-11T00:00:00',
+	'RecordValue': 166200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-01T00:00:00',
+	'RecordValue': 204300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-03T00:00:00',
+	'RecordValue': 181500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-10T00:00:00',
+	'RecordValue': 171000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-12T00:00:00',
+	'RecordValue': 228300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-02T00:00:00',
+	'RecordValue': 186600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-07T00:00:00',
+	'RecordValue': 165600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-08T00:00:00',
+	'RecordValue': 174600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-14T00:00:00',
+	'RecordValue': 256200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-13T00:00:00',
+	'RecordValue': 248400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-16T00:00:00',
+	'RecordValue': 249300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-18T00:00:00',
+	'RecordValue': 257100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-22T00:00:00',
+	'RecordValue': 274500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-24T00:00:00',
+	'RecordValue': 268800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-15T00:00:00',
+	'RecordValue': 210600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-23T00:00:00',
+	'RecordValue': 265400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-25T00:00:00',
+	'RecordValue': 260100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-26T00:00:00',
+	'RecordValue': 267900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-17T00:00:00',
+	'RecordValue': 244800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-19T00:00:00',
+	'RecordValue': 249600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-20T00:00:00',
+	'RecordValue': 250500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-31T00:00:00',
+	'RecordValue': 276300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-21T00:00:00',
+	'RecordValue': 258000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-30T00:00:00',
+	'RecordValue': 281400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-01T00:00:00',
+	'RecordValue': 267900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-07T00:00:00',
+	'RecordValue': 278100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-09T00:00:00',
+	'RecordValue': 274200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-27T00:00:00',
+	'RecordValue': 260100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-28T00:00:00',
+	'RecordValue': 273600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-03T00:00:00',
+	'RecordValue': 264000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-05T00:00:00',
+	'RecordValue': 276300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-05-29T00:00:00',
+	'RecordValue': 272400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-02T00:00:00',
+	'RecordValue': 267300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-04T00:00:00',
+	'RecordValue': 267000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-06T00:00:00',
+	'RecordValue': 278400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-08T00:00:00',
+	'RecordValue': 270900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-11T00:00:00',
+	'RecordValue': 274200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-12T00:00:00',
+	'RecordValue': 274800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-14T00:00:00',
+	'RecordValue': 274500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-10T00:00:00',
+	'RecordValue': 272700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-15T00:00:00',
+	'RecordValue': 277200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-17T00:00:00',
+	'RecordValue': 277800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-18T00:00:00',
+	'RecordValue': 274500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-13T00:00:00',
+	'RecordValue': 277800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-22T00:00:00',
+	'RecordValue': 273000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-24T00:00:00',
+	'RecordValue': 275100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-26T00:00:00',
+	'RecordValue': 277500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-16T00:00:00',
+	'RecordValue': 274800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-20T00:00:00',
+	'RecordValue': 270600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-21T00:00:00',
+	'RecordValue': 273300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-28T00:00:00',
+	'RecordValue': 272100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-19T00:00:00',
+	'RecordValue': 270900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-23T00:00:00',
+	'RecordValue': 272400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-25T00:00:00',
+	'RecordValue': 280200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-27T00:00:00',
+	'RecordValue': 274500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-29T00:00:00',
+	'RecordValue': 276000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-03T00:00:00',
+	'RecordValue': 279900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-05T00:00:00',
+	'RecordValue': 276600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-07T00:00:00',
+	'RecordValue': 283200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-06-30T00:00:00',
+	'RecordValue': 278100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-12T00:00:00',
+	'RecordValue': 284400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-14T00:00:00',
+	'RecordValue': 278700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-16T00:00:00',
+	'RecordValue': 283200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-20T00:00:00',
+	'RecordValue': 282300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-01T00:00:00',
+	'RecordValue': 278400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-04T00:00:00',
+	'RecordValue': 275400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-06T00:00:00',
+	'RecordValue': 276900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-09T00:00:00',
+	'RecordValue': 284700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-02T00:00:00',
+	'RecordValue': 279600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-08T00:00:00',
+	'RecordValue': 281700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-10T00:00:00',
+	'RecordValue': 285300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-11T00:00:00',
+	'RecordValue': 282600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-13T00:00:00',
+	'RecordValue': 281100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-15T00:00:00',
+	'RecordValue': 277800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-26T00:00:00',
+	'RecordValue': 524400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-31T00:00:00',
+	'RecordValue': 538800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-17T00:00:00',
+	'RecordValue': 281700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-18T00:00:00',
+	'RecordValue': 282900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-19T00:00:00',
+	'RecordValue': 283200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-22T00:00:00',
+	'RecordValue': 138600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-21T00:00:00',
+	'RecordValue': 236700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-23T00:00:00',
+	'RecordValue': 380400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-24T00:00:00',
+	'RecordValue': 516900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-25T00:00:00',
+	'RecordValue': 522900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-27T00:00:00',
+	'RecordValue': 531600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-28T00:00:00',
+	'RecordValue': 527700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-29T00:00:00',
+	'RecordValue': 527400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-02T00:00:00',
+	'RecordValue': 519600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-07-30T00:00:00',
+	'RecordValue': 527700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-03T00:00:00',
+	'RecordValue': 527400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-04T00:00:00',
+	'RecordValue': 378900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-07T00:00:00',
+	'RecordValue': 276900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-01T00:00:00',
+	'RecordValue': 534600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-05T00:00:00',
+	'RecordValue': 270900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-06T00:00:00',
+	'RecordValue': 273600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-08T00:00:00',
+	'RecordValue': 274800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-11T00:00:00',
+	'RecordValue': 261300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-12T00:00:00',
+	'RecordValue': 270300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-14T00:00:00',
+	'RecordValue': 273600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-15T00:00:00',
+	'RecordValue': 272400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-09T00:00:00',
+	'RecordValue': 276000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-16T00:00:00',
+	'RecordValue': 270300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-17T00:00:00',
+	'RecordValue': 269100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-18T00:00:00',
+	'RecordValue': 265800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-10T00:00:00',
+	'RecordValue': 274200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-13T00:00:00',
+	'RecordValue': 268800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-20T00:00:00',
+	'RecordValue': 268800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-22T00:00:00',
+	'RecordValue': 274200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-19T00:00:00',
+	'RecordValue': 266100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-25T00:00:00',
+	'RecordValue': 246000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-27T00:00:00',
+	'RecordValue': 269100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-28T00:00:00',
+	'RecordValue': 273000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-21T00:00:00',
+	'RecordValue': 272100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-24T00:00:00',
+	'RecordValue': 270300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-26T00:00:00',
+	'RecordValue': 260700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-29T00:00:00',
+	'RecordValue': 268200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-23T00:00:00',
+	'RecordValue': 270600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-30T00:00:00',
+	'RecordValue': 269700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-08-31T00:00:00',
+	'RecordValue': 262800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-01T00:00:00',
+	'RecordValue': 267600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-02T00:00:00',
+	'RecordValue': 268500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-03T00:00:00',
+	'RecordValue': 268500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-06T00:00:00',
+	'RecordValue': 261600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-08T00:00:00',
+	'RecordValue': 250200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-04T00:00:00',
+	'RecordValue': 262800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-11T00:00:00',
+	'RecordValue': 541800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-12T00:00:00',
+	'RecordValue': 540000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-13T00:00:00',
+	'RecordValue': 536100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-05T00:00:00',
+	'RecordValue': 269100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-14T00:00:00',
+	'RecordValue': 424800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-15T00:00:00',
+	'RecordValue': 365100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-19T00:00:00',
+	'RecordValue': 544200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-20T00:00:00',
+	'RecordValue': 545100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-07T00:00:00',
+	'RecordValue': 267000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-10T00:00:00',
+	'RecordValue': 540900
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-22T00:00:00',
+	'RecordValue': 478500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-24T00:00:00',
+	'RecordValue': 429300
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-09T00:00:00',
+	'RecordValue': 417000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-16T00:00:00',
+	'RecordValue': 463200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-25T00:00:00',
+	'RecordValue': 361800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-27T00:00:00',
+	'RecordValue': 337200
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-30T00:00:00',
+	'RecordValue': 190500
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-17T00:00:00',
+	'RecordValue': 481800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-23T00:00:00',
+	'RecordValue': 455400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-10-01T00:00:00',
+	'RecordValue': 263700
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-10-02T00:00:00',
+	'RecordValue': 368400
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-18T00:00:00',
+	'RecordValue': 539100
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-10-03T00:00:00',
+	'RecordValue': 382800
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-21T00:00:00',
+	'RecordValue': 546000
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-26T00:00:00',
+	'RecordValue': 345600
+}, {
+	'TypeCode': 'NY_FDL',
+	'TypeName': '发电量（KWh)',
+	'RecordTime': '2020-09-28T00:00:00',
+	'RecordValue': 355200
+}, {'TypeCode': 'NY_FDL', 'TypeName': '发电量（KWh)', 'RecordTime': '2020-09-29T00:00:00', 'RecordValue': 226200}];
+//[10, 11,12 ,1,2,3,4,5,6,7,8,9,10]
+//new Date('2020-09-28T00:00:00')
+
+// 返回如下数据
+
+// 每个月的供水量, 数组每一项是某个月的供水量之和: [220, 182, 191, 234, 290, 330, 310, 123, 442, 321, 90, 149, 210, 122, 133, 334, 198, 123, 125, 220]
+// 同上, 供电量: [220, 182, 191, 234, 290, 330, 310, 123, 442, 321, 90, 149, 210, 122, 133, 334, 198, 123, 125, 220]
